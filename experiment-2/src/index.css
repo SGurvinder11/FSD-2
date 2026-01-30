@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 300px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.btn-small {
+  background-color: #1976d2 !important;
+  border-radius: 8px !important;
+}
+
+.btn-small:hover {
+  background-color: #0d47a1 !important;
+}
+
+.btn-medium {
+  background-color: #2e7d32 !important;
+  border-radius: 8px !important;
+}
+
+.btn-medium:hover {
+  background-color: #1b5e20 !important;
+}
+
+.input-box {
+  margin-top: 10px !important;
+}
