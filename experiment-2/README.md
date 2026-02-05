@@ -101,4 +101,3 @@ Understand the concept of UI component libraries.
 Design user-friendly interfaces using Material UI and Bootstrap.
 Develop React-based UI applications.
 
-Use VS Code for professional web development.
