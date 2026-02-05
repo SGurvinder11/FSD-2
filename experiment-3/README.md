@@ -62,8 +62,7 @@ export default function App() {
 Step 5: Wrap App with BrowserRouter
 In main.jsx:
 
-jsx
-Copy code
+
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
